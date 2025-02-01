@@ -39,11 +39,3 @@ print(gdf["area"])
 #--------------------------
 gdf.plot('area', legend=True)  # Plot the area of each borough 
 plt.show() # Show the plot 
-
-
-
-
-
-
-
-
