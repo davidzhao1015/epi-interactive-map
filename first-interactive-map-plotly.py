@@ -13,6 +13,9 @@ import json # To read the data in JSON format
 with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
     counties = json.load(response)
 
+print(counties)    
+
+
 #---------------------------------------------------------------
 # Read the unemployment data from CSV file
 #---------------------------------------------------------------
