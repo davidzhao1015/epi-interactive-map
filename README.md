@@ -23,12 +23,11 @@ Or launch the Jupyter Notebook instantly with **Binder**: [![Binder](https://myb
 
 
 ## 🛠 Built With
-•	Python (pandas, plotly, seaborn, matplotlib)
-•	Plotly for interactive map visualizations
-•	GeoJSON + pycountry for country-level overlays
+- Python (pandas, plotly, seaborn, matplotlib)
+- Plotly for interactive map visualizations
+- GeoJSON + pycountry for country-level overlays  
 
 
 ## 📘 License
-
 MIT License.
 
